@@ -1,8 +1,5 @@
-# React + Vite
+# Stash Your Keys
+----
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Stash Your Keys is an CLI tool that provides a secure way to store and manage your keys, tokens, and passwords. This package acts like a hidden compartment where you can stash your digital valuables with peace of mind, knowing that they are kept safe and sound.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
